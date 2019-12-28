@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-push-4 animate-box colorlib-heading animate-box">
-                    <span class="sm">Welcome!</span>
+                    <span class="sm">¡Bienvenido!</span>
                     <h2><span class="thin">Secrets of Success</span> <span class="thick">of Our Projects</span></h2>
                 </div>
                 <div class="col-md-4 col-md-pull-4 animate-box">
@@ -25,8 +25,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 animate-box colorlib-heading animate-box">
-                    <span class="sm">Works</span>
-                    <h2><span class="thin">Our Done</span> <span class="thick">Projects</span></h2>
+                    <span class="sm">Trabajos</span>
+                    <h2><span class="thin">Nuestros</span> <span class="thick">Proyectos Realizados</span></h2>
                     <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
                     <p><a href="project.html">View All Projects <i class="icon-arrow-right3"></i></a></p>
                 </div>
@@ -77,7 +77,7 @@
             </div>
         </div>
     </div>
-    <div id="colorlib-counter" class="colorlib-counters" style="background-image: url({{asset('images/cover_img_1.jpg')}});" data-stellar-background-ratio="0.5">
+    <!--<div id="colorlib-counter" class="colorlib-counters" style="background-image: url({{asset('images/cover_img_1.jpg')}});" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
@@ -105,14 +105,14 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <div id="colorlib-services" class="colorlib-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 animate-box colorlib-heading animate-box">
-                    <span class="sm">What We Do?</span>
-                    <h2><span class="thin">We Offer</span> <span class="thick">Services</span></h2>
+                    <span class="sm">¿Qué hacemos?</span>
+                    <h2><span class="thin">Nuestros</span> <span class="thick">Servicios</span></h2>
                     <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
                 </div>
                 <div class="col-md-8">
@@ -190,52 +190,12 @@
             </div>
         </div>
     </div>
-
-    <div id="colorlib-blog">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 animate-box colorlib-heading animate-box">
-                    <span class="sm">Recent Blog</span>
-                    <h2><span class="thin">Read</span> <span class="thick">Our Blog</span></h2>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-                    <p><a href="blog.html">View All Blog Post <i class="icon-arrow-right3"></i></a></p>
-                </div>
-                <div class="col-md-8">
-                    <div class="row">
-                        <div class="wrap">
-                            <div class="blog-entry animate-box">
-                                <a href="blog.html" class="blog-img" style="background-image: url({{asset('images/blog-1.jpg')}});"></a>
-                                <div class="desc">
-                                    <span>&mdash; 20 Jan, 2017 </span>
-                                    <h2><a href="blog.html">Construction was awarded with “The Best Construction Company” prize</a></h2>
-                                </div>
-                            </div>
-                            <div class="blog-entry animate-box">
-                                <a href="blog.html" class="blog-img" style="background-image: url({{asset('images/blog-2.jpg')}});"></a>
-                                <div class="desc">
-                                    <span>&mdash; 20 Jan, 2017 </span>
-                                    <h2><a href="blog.html">New Doublered Residence Facility Occupied and Second to Begin this Month</a></h2>
-                                </div>
-                            </div>
-                            <div class="blog-entry animate-box">
-                                <a href="blog.html" class="blog-img" style="background-image: url({{asset('images/blog-3.jpg')}});"></a>
-                                <div class="desc">
-                                    <span>&mdash; 20 Jan, 2017 </span>
-                                    <h2><a href="blog.html">New Saint Michael’s College Residence Hall Buzzing with Student Activity</a></h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div id="colorlib-about">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-push-8 animate-box colorlib-heading animate-box">
-                    <span class="sm">Team</span>
-                    <h2><span class="thin">Our</span> <span class="thick">Engineers</span></h2>
+                    <span class="sm">Equipo</span>
+                    <h2><span class="thin">Nuestros</span> <span class="thick">Ingenieros</span></h2>
                     <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
                 </div>
                 <div class="col-md-8 col-md-pull-4">
@@ -274,7 +234,7 @@
             <div class="row">
                 <div class="col-md-4 animate-box colorlib-heading animate-box">
                     <span class="sm">Testimonial</span>
-                    <h2><span class="thin">What Our</span> <span class="thick">Client Says</span></h2>
+                    <h2><span class="thin">Que dicen</span> <span class="thick">Nuestros Clentes</span></h2>
                 </div>
                 <div class="col-md-7 col-md-push-1">
                     <div class="row animate-box">
