@@ -13,4 +13,8 @@
 
 Route::get('/', function () {
     return view('pages.home');
-});
+})->name('goarv.home');
+
+Route::get('proyectos', function() {
+    return view('pages.proyectos');
+})->name('goarv.proyectos');
