@@ -35,7 +35,7 @@
                         <div class="col-md-12 animate-box">
                             <div class="owl-carousel owl-carousel2 project-wrap">
                                 <div class="item">
-                                    <a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url({{asset('images/building-1.jpg')}});">
+                                    <a href="{{asset('images/building-1.jpg')}}" class="project image-popup-link" style="background-image: url({{asset('images/building-1.jpg')}});">
                                         <div class="desc-t">
                                             <div class="desc-tc">
                                                 <div class="desc">
@@ -47,7 +47,7 @@
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url({{asset('images/building-2.jpg')}});">
+                                    <a href="{{asset('images/building-2.jpg')}}" class="project image-popup-link" style="background-image: url({{asset('images/building-2.jpg')}});">
                                         <div class="desc-t">
                                             <div class="desc-tc">
                                                 <div class="desc">
@@ -59,7 +59,7 @@
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url({{asset('images/building-3.jpg')}});">
+                                    <a href="{{asset('images/building-3.jpg')}}" class="project image-popup-link" style="background-image: url({{asset('images/building-3.jpg')}});">
                                         <div class="desc-t">
                                             <div class="desc-tc">
                                                 <div class="desc">
