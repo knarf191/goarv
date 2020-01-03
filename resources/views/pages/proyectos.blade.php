@@ -1,5 +1,7 @@
 @extends('layouts.application')
 @section('content')
+    <div style="background-color: #333333; width: 100%; height: 170px;">
+    </div>
     <div id="colorlib-project">
         <div class="container">
             <div class="row">
