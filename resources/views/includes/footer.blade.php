@@ -39,7 +39,7 @@
     </div>
     <div class="row">
         <div class="col-md-12 text-center">
-            <p>
+            <p style="margin: 0">
                 <small class="block">CONSTRUCCIONES GOARV <script>document.write(new Date().getFullYear());</script>. </small>
             </p>
         </div>

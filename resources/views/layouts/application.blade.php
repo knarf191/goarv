@@ -12,7 +12,7 @@
             <div>
                 @yield('content')
             </div>
-            <footer id="colorlib-footer" role="contentinfo">
+            <footer id="colorlib-footer" role="contentinfo" style="padding: 30px 0">
                 @include('includes.footer')
             </footer>
         </div>
