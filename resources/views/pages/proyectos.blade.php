@@ -1,6 +1,6 @@
 @extends('layouts.application')
 @section('content')
-    <div style="background-color: #333333; width: 100%; height: 170px;">
+    <div style="width: 100%; height: 170px; background-image: url({{asset('images/banner.png')}}); background-repeat: no-repeat;">
     </div>
     <div id="colorlib-project">
         <div class="container">

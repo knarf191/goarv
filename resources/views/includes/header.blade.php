@@ -9,12 +9,7 @@
                     <ul>
                         <li class="active"><a href="{{route('goarv.home')}}">Home</a></li>
                         <li class="has-dropdown">
-                            <a href="work.html">Nuestra Empresa</a>
-                            <ul class="dropdown">
-                                <li><a href="#">Historia</a></li>
-                                <li><a href="#">Misión</a></li>
-                                <li><a href="#">Visión</a></li>
-                            </ul>
+                            <a href="{{route('goarv.company')}}">Nuestra Empresa</a>
                         </li>
                         <li><a href="blog.html">Nuestros Servicios</a></li>
                         <li><a href="{{route('goarv.projects')}}">Proyectos</a></li>

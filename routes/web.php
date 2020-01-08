@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('projects', function() {
     return view('pages.proyectos');
 })->name('goarv.projects');
+
+Route::get('company', function() {
+    return view('pages.empresa');
+})->name('goarv.company');
