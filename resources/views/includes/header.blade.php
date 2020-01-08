@@ -15,7 +15,7 @@
                         <li><a href="{{route('goarv.projects')}}">Proyectos</a></li>
 
                         <li><a href="about.html">Nuestro Equipo</a></li>
-                        <li><a href="contact.html">Contáctanos</a></li>
+                        <li><a href="{{route('goarv.contact')}}">Contáctanos</a></li>
                     </ul>
                 </div>
             </div>

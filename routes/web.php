@@ -22,3 +22,7 @@ Route::get('projects', function() {
 Route::get('company', function() {
     return view('pages.empresa');
 })->name('goarv.company');
+
+Route::get('contact', function() {
+    return view('pages.contacto');
+})->name('goarv.contact');
