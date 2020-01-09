@@ -309,5 +309,31 @@
 		owlCrouselFeatureSlide();x
 	});
 
-
+    /*------------------
+		Brands Slider
+	--------------------*/
+    $('#client-carousel').owlCarousel({
+        nav: false,
+        loop: true,
+        margin:20,
+        autoplay: true,
+        responsive:{
+            0:{
+                items:2,
+                margin: 0
+            },
+            600:{
+                items:3
+            },
+            800:{
+                items:4
+            },
+            992:{
+                items:4
+            },
+            1200:{
+                items:5
+            },
+        }
+    });
 }());

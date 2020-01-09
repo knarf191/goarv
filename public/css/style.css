@@ -1479,3 +1479,30 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+.client-slider .single-brand {
+    display: table;
+    height: 80px;
+    width: 100%;
+}
+
+.client-slider .single-brand a {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.client-slider .single-brand a img {
+    width: auto;
+    margin: 0 auto;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+.client-slider .single-brand a:hover img {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+

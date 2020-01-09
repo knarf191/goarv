@@ -330,33 +330,46 @@
             </div>
         </div>
     </div>
-    <div id="client-carousel" class="client-slider owl-carousel">
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/1.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/2.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/3.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/4.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/5.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/6.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/7.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/8.jpg')}}" alt="">
-        </div>
-        <div class="single-brand">
-            <img src="{{asset('images/proveedores/9.jpg')}}" alt="">
+    <div id="colorlib-about" style="padding: 20px 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 animate-box colorlib-heading animate-box">
+                    <h2><span class="thick">Nuestros Proveedores</span></h2>
+                </div>
+            </div>
+            <div class="row">
+
+                <div id="client-carousel" class="client-slider owl-carousel">
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/1.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/2.jpg')}}" alt="" style="width: 50%;">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/3.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/4.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/5.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/6.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/7.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/8.jpg')}}" alt="">
+                    </div>
+                    <div class="single-brand">
+                        <img src="{{asset('images/proveedores/9.jpg')}}" alt="" style="width: 50%;">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+
 @stop
