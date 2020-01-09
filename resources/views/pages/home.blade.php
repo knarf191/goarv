@@ -330,4 +330,33 @@
             </div>
         </div>
     </div>
+    <div id="client-carousel" class="client-slider owl-carousel">
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/1.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/2.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/3.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/4.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/5.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/6.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/7.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/8.jpg')}}" alt="">
+        </div>
+        <div class="single-brand">
+            <img src="{{asset('images/proveedores/9.jpg')}}" alt="">
+        </div>
+    </div>
 @stop
