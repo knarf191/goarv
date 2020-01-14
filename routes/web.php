@@ -26,3 +26,11 @@ Route::get('company', function() {
 Route::get('contact', function() {
     return view('pages.contacto');
 })->name('goarv.contact');
+
+Route::get('team', function() {
+    return view('pages.equipo');
+})->name('goarv.team');
+
+Route::get('services', function() {
+    return view('pages.services');
+})->name('goarv.services');

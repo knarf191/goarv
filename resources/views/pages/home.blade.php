@@ -72,8 +72,8 @@
                 <div class="col-md-4 animate-box colorlib-heading animate-box">
                     <span class="sm">Trabajos</span>
                     <h2><span class="thin">Nuestros</span> <span class="thick">Proyectos Realizados</span></h2>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-                    <p><a href="{{route('goarv.projects')}}">View All Projects <i class="icon-arrow-right3"></i></a></p>
+                    <p>Contamos con una gran trayectoria en el ramo constructor, respaldada por nuestras obras y construcciones.</p>
+                    <p><a href="{{route('goarv.projects')}}">Mira todos nuestros proyectos<i class="icon-arrow-right3"></i></a></p>
                 </div>
                 <div class="col-md-7 col-md-push-1">
                     <div class="row">
@@ -241,18 +241,19 @@
                 <div class="col-md-4 col-md-push-8 animate-box colorlib-heading animate-box">
                     <span class="sm">Equipo</span>
                     <h2><span class="thin">Nuestros</span> <span class="thick">Ingenieros</span></h2>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+                    <p>El equipo de profesionales de GOARV está integrado por personas con un alto nivel de conocimientos en todas las áreas en las que nos desempeñamos.</p>
+                    <p><a href="{{route('goarv.team')}}"> Conoce más de nuestro equipo <i class="icon-arrow-right3"></i></a></p>
                 </div>
                 <div class="col-md-8 col-md-pull-4">
                     <div class="row">
                         <div class="wrap-2">
                             <div class="col-md-6 text-center animate-box">
-                                <div class="staff" class="staff-img" style="background-image: url({{asset('images/person1.jpg')}});">
+                                <div class="staff" class="staff-img" style="background-image: url({{asset('images/person5.jpg')}});">
                                     <a href="#" class="desc">
-                                        <h3>John Miller</h3>
-                                        <span>Lead Engineer</span>
+                                        <h3>Ing. Fco. Javier Avelino Arias</h3>
+                                        <p>Ingenieria y Construcción</p>
                                         <div class="parag">
-                                            <p>Even the all-powerful Pointing has no control about the blind texts</p>
+                                            <p>Con más de 10 años de experiencia en el ramo constructor</p>
                                         </div>
                                     </a>
                                 </div>
@@ -260,10 +261,10 @@
                             <div class="col-md-6 text-center animate-box">
                                 <div class="staff" class="staff-img" style="background-image: url({{asset('images/person2.jpg')}});">
                                     <a href="#" class="desc">
-                                        <h3>Brian Smith</h3>
-                                        <span>Architect</span>
+                                        <h3>Ing. Juan José Villasis Jimenez</h3>
+                                        <p>Soporte y Mantto.</p>
                                         <div class="parag">
-                                            <p>Even the all-powerful Pointing has no control about the blind texts</p>
+                                            <p>Experto en mantenimiento y soporte a equipos y edificaciones.</p>
                                         </div>
                                     </a>
                                 </div>

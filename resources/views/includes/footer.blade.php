@@ -16,9 +16,9 @@
             <h4>Información</h4>
             <p>
             <ul class="colorlib-footer-links">
-                <li><a href="{{route('goarv.company')}}"><i class="icon-check"></i> Nuestra empresa</a></li>
-                <li><a href="#"><i class="icon-check"></i> Nuestros Servicios</a></li>
-                <li><a href="#"><i class="icon-check"></i> Nuestro Equipo</a></li>
+                <li><a href="{{route('goarv.company')}}"><i class="icon-check"></i> Nuestra Empresa</a></li>
+                <li><a href="{{route('goarv.services')}}"><i class="icon-check"></i> Nuestros Servicios</a></li>
+                <li><a href="{{route('goarv.team')}}"><i class="icon-check"></i> Nuestro Equipo</a></li>
             </ul>
             </p>
         </div>
