@@ -34,3 +34,7 @@ Route::get('team', function() {
 Route::get('services', function() {
     return view('pages.services');
 })->name('goarv.services');
+
+Route::get('clients', function() {
+    return view('pages.clients');
+})->name('goarv.clients');

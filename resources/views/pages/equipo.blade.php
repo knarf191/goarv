@@ -8,7 +8,7 @@
                 <h3>NUESTRO EQUIPO</h3>
                 <hr>
                 <br>
-                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,218); margin-bottom: 15px; border-radius: 15px;">
+                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,238); margin-bottom: 15px; border-radius: 15px;">
                     <div class="row" style="padding: 15px 0;">
                         <div class="col-md-3">
                             <img src="{{asset('images/person5.jpg')}}" alt="user" width="60%">
@@ -21,7 +21,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,218); margin-bottom: 15px; border-radius: 15px;">
+                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,238); margin-bottom: 15px; border-radius: 15px;">
                     <div class="row" style="padding: 15px 0;">
                         <div class="col-md-9" style="padding: 15px 15px;">
                             <div class="parag">

@@ -30,7 +30,7 @@
                             </div>
                             <div class="form-group">
                                 <label>Email:</label>
-                                <input type="email" class="form-control" placeholder="Introduce tu emai">
+                                <input type="email" class="form-control" placeholder="Introduce tu email">
                             </div>
                             <div class="form-group">
                                 <label>Teléfono:</label>

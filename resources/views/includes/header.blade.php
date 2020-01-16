@@ -13,7 +13,7 @@
                         </li>
                         <li><a href="{{route('goarv.services')}}">Servicios</a></li>
                         <li><a href="{{route('goarv.team')}}">Nuestro Equipo</a></li>
-                        <li><a href="{{route('goarv.team')}}">Clientes</a></li>
+                        <li><a href="{{route('goarv.clients')}}">Clientes</a></li>
                         <li><a href="{{route('goarv.projects')}}">Proyectos</a></li>
                         <li><a href="{{route('goarv.contact')}}">Contáctanos</a></li>
                     </ul>
