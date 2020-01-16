@@ -1506,3 +1506,10 @@ input[type="text"] {
     filter: grayscale(0%);
 }
 
+.service-box{
+    background-color: rgb(242, 243, 244 );
+    padding: 10px;
+    box-shadow: 4px 4px;
+    margin: 5px;
+}
+
