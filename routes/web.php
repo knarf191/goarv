@@ -38,3 +38,11 @@ Route::get('services', function() {
 Route::get('clients', function() {
     return view('pages.clients');
 })->name('goarv.clients');
+
+/*=======================================
+                DASHBOARD
+/*======================================*/
+
+Route::get('dashboard', function() {
+    return view('pages.dashboard.login');
+})->name('goarv.login');
