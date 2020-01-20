@@ -49,7 +49,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="{{route('goarv.comments')}}" class="nav-link">
+                    <a href="{{route('goarv.admin_projects')}}" class="nav-link">
                         <i class="nav-icon fas fa-building"></i>
                         <p>Proyectos</p>
                     </a>
