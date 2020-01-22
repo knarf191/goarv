@@ -25,7 +25,18 @@
             <hr>
             <div class="row">
                 <h3>TESTIMONIOS</h3>
-                <p></p>
+                <blockquote>
+                    <span><b>Andrew Field</b></span>
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                </blockquote>
+                <blockquote>
+                    <span><b>Mark Bubble</b></span>
+                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                </blockquote>
+                <blockquote>
+                    <span><b>Adam Smith</b></span>
+                    <p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                </blockquote>
             </div>
             <hr>
             <div class="row">
