@@ -48,19 +48,20 @@
     <div id="colorlib-intro">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-md-push-4 animate-box colorlib-heading animate-box">
-                    <span class="sm">¡Bienvenido!</span>
-                    <h2><span class="thin">Secrets of Success</span> <span class="thick">of Our Projects</span></h2>
+                <div class="col-md-6 col-md-push-6 animate-box colorlib-heading animate-box">
+                    <span class="sm"><b>¡Bienvenido!</b></span>
+                    <p style="text-align: justify">Gracias por visitar nuestra nueva página web. Aquí podrás encontrar toda la información que necesites sobre nuestra empresa y sobre los servicios que ofrecemos.</p>
+                    <p style="text-align: justify">Somos una empresa constructora fuertemente implicada en el crecimiento y el desarrollo social, mediante la supervisión y ejecución de proyectos de construcción reconocidos por su calidad  y respeto por el medio ambiente.</p>
                 </div>
-                <div class="col-md-4 col-md-pull-4 animate-box">
+                <div class="col-md-6 col-md-pull-6 animate-box">
                     <div class="box text-center">
-                        <span class="num">25</span>
-                        <span class="yr">Years</span>
-                        <span class="thin">Experience</span>
+                        <span class="num">10</span>
+                        <span class="yr">Años</span>
+                        <span class="thin">Experiencia</span>
                     </div>
                 </div>
                 <div class="col-md-4 animate-box">
-                    <p>Since 1980 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
                 </div>
             </div>
         </div>
@@ -158,62 +159,19 @@
                 <div class="col-md-4 animate-box colorlib-heading animate-box">
                     <span class="sm">¿Qué hacemos?</span>
                     <h2><span class="thin">Nuestros</span> <span class="thick">Servicios</span></h2>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+                    <p style="text-align: justify">Mediante este Portafolio de Servicios ponemos a disposición de clientes potenciales nuestra experiencia técnica en el manejo y dirección de obras arquitectónicas y civiles, orientada a lograr el máximo beneficio con una administración óptima de los recursos y al mínimo costo.</p>
                 </div>
                 <div class="col-md-8">
                     <div class="row">
                         <div class="wrap">
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-engineer"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>General Constructing</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-engineering"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Building Modeling</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-skyline"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Design Build</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-crane"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Construction Services</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
+
                             <div class="col-md-6 animate-box">
                                 <div class="services">
                                             <span class="icon">
                                                 <i class="flaticon-sketch"></i>
                                             </span>
                                     <div class="desc">
-                                        <h3>Pre-Construction Design</h3>
+                                        <h3>Inegeria y Diseño</h3>
                                         <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
                                     </div>
                                 </div>
@@ -224,7 +182,29 @@
                                                 <i class="flaticon-conveyor"></i>
                                             </span>
                                     <div class="desc">
-                                        <h3>Construction Management</h3>
+                                        <h3>Mantenimiento y Soporte Técnico</h3>
+                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="services">
+                                            <span class="icon">
+                                                <i class="flaticon-engineer"></i>
+                                            </span>
+                                    <div class="desc">
+                                        <h3>Construcción</h3>
+                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="services">
+                                            <span class="icon">
+                                                <i class="flaticon-crane"></i>
+                                            </span>
+                                    <div class="desc">
+                                        <h3>Suministros</h3>
                                         <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
                                     </div>
                                 </div>
