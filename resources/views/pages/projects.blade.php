@@ -8,15 +8,92 @@
                 <h3>NUESTROS PROYECTOS</h3>
                 <hr>
                 <br>
-                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,238); margin-bottom: 15px; border-radius: 15px;">
-                    <div class="row" style="padding: 15px 0;">
-                        <div class="col-md-3">
-                            <img src="{{asset('images/person5.jpg')}}" alt="user" width="60%">
-                        </div>
-                        <div class="col-md-9" style="padding: 15px 15px;">
-                            <div class="parag">
-                                <h3>Ing. Fco. Javier Avelino Arias</h3>
-                                <p>Con más de 10 años de experiencia en el ramo constructor</p>
+                <div id="colorlib-project">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-1.jpg" class="project image-popup-link" style="background-image: url(images/building-1.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>1</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-2.jpg" class="project image-popup-link" style="background-image: url(images/building-2.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>1</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-3.jpg" class="project image-popup-link" style="background-image: url(images/building-3.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>3</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-4.jpg" class="project image-popup-link" style="background-image: url(images/building-4.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>4</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-5.jpg" class="project image-popup-link" style="background-image: url(images/building-5.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>5</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-6 animate-box">
+                                <div class="item item-2">
+                                    <a href="images/building-6.jpg" class="project image-popup-link" style="background-image: url(images/building-6.jpg);">
+                                        <div class="desc-t">
+                                            <div class="desc-tc">
+                                                <div class="desc">
+                                                    <h3><span><small>6</small></span> California Mega Mall</h3>
+                                                    <p>Even the all-powerful Pointing has no control</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

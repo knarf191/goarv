@@ -48,3 +48,4 @@
 <!--[if lt IE 9]>
 <script src="{{asset('js/respond.min.js')}}"></script>
 <![endif]-->
+<link rel="icon" href="{{asset('images/bulldozer.png')}}">

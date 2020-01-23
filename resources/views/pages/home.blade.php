@@ -156,61 +156,16 @@
     <div id="colorlib-services" class="colorlib-light-grey">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 animate-box colorlib-heading animate-box">
+                <div class="col-md-12 animate-box colorlib-heading animate-box">
                     <span class="sm">¿Qué hacemos?</span>
                     <h2><span class="thin">Nuestros</span> <span class="thick">Servicios</span></h2>
-                    <p style="text-align: justify">Mediante este Portafolio de Servicios ponemos a disposición de clientes potenciales nuestra experiencia técnica en el manejo y dirección de obras arquitectónicas y civiles, orientada a lograr el máximo beneficio con una administración óptima de los recursos y al mínimo costo.</p>
-                </div>
-                <div class="col-md-8">
-                    <div class="row">
-                        <div class="wrap">
-
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-sketch"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Inegeria y Diseño</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-conveyor"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Mantenimiento y Soporte Técnico</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-engineer"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Construcción</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 animate-box">
-                                <div class="services">
-                                            <span class="icon">
-                                                <i class="flaticon-crane"></i>
-                                            </span>
-                                    <div class="desc">
-                                        <h3>Suministros</h3>
-                                        <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <p style="text-align: justify">Mediante este Portafolio de Servicios ponemos a disposición de clientes potenciales nuestra
+                        experiencia técnica en el manejo y dirección de obras arquitectónicas y civiles, orientada a lograr el máximo beneficio con una
+                        administración óptima de los recursos y al mínimo costo.</p>
+                    <p style="text-align: justify">Nuestro objetivo, como el de las grandes empresas del sector constructor, va más allá de ofrecer un buen servicio,
+                        es el compromiso permanente en la búsqueda constante de nuevas alternativas para su prestación, buscando de esta manera,
+                        alcanzar un nivel de competitividad acorde con las exigencias del cliente actual, en cuanto a la calidad del servicio que le garantice la rentabilidad de su inversión.</p>
+                    <p><a href="{{route('goarv.services')}}">Conoce todos nuestros servicios.<i class="icon-arrow-right3"></i></a></p>
                 </div>
             </div>
         </div>

@@ -8,9 +8,7 @@
                 <div class="col-xs-10 text-right menu-1">
                     <ul>
                         <li class="active"><a href="{{route('goarv.home')}}">Home</a></li>
-                        <li class="has-dropdown">
-                            <a href="{{route('goarv.company')}}">Empresa</a>
-                        </li>
+                        <li><a href="{{route('goarv.company')}}">Empresa</a></li>
                         <li><a href="{{route('goarv.services')}}">Servicios</a></li>
                         <li><a href="{{route('goarv.team')}}">Nuestro Equipo</a></li>
                         <li><a href="{{route('goarv.clients')}}">Clientes</a></li>

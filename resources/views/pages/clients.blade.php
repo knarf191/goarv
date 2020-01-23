@@ -11,12 +11,23 @@
                 <div class="col-md-12 animate-box" style="background-color: rgb(238,238,218); margin-bottom: 15px; border-radius: 15px;">
                     <div class="row" style="padding: 15px 0;">
                         <div class="col-md-3">
-                            <img src="{{asset('images/person5.jpg')}}" alt="user" width="60%">
+                            <img src="{{asset('images/clientes/totalplay.png')}}" alt="user" width="60%">
                         </div>
                         <div class="col-md-9" style="padding: 15px 15px;">
                             <div class="parag">
-                                <h3>Ing. Fco. Javier Avelino Arias</h3>
-                                <p>Con más de 10 años de experiencia en el ramo constructor</p>
+                                <h3>TOTAL PLAY TELECOMUNICACIONES SA DE CV</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 animate-box" style="background-color: rgb(238,238,218); margin-bottom: 15px; border-radius: 15px;">
+                    <div class="row" style="padding: 15px 0;">
+                        <div class="col-md-3">
+                            <img src="{{asset('images/clientes/marin.png')}}" alt="user" width="60%">
+                        </div>
+                        <div class="col-md-9" style="padding: 15px 15px;">
+                            <div class="parag">
+                                <h3>JOSE ARMIN MARIN SAURY</h3>
                             </div>
                         </div>
                     </div>
