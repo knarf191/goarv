@@ -12,22 +12,17 @@
                         <div class="col-md-6 animate-box">
                             <div class="services">
                                             <span class="icon">
-                                                <i class="flaticon-sketch"></i>
-                                            </span>
-                                <div class="desc">
-                                    <h3>Inegeria y Diseño</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 animate-box">
-                            <div class="services">
-                                            <span class="icon">
                                                 <i class="flaticon-conveyor"></i>
                                             </span>
                                 <div class="desc">
-                                    <h3>Mantenimiento y Soporte Técnico</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+                                    <h3>MANTENIMIENTO Y SOPORTE TÉCNICO</h3>
+                                    <ul>
+                                        <li>Dispensarios y sistema de monitoreos</li>
+                                        <li>Imagen e instalaciones</li>
+                                        <li>Hidroneumáticos </li>
+                                        <li>Motobombas</li>
+                                        <li>Asesoría técnica</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -37,8 +32,34 @@
                                                 <i class="flaticon-engineer"></i>
                                             </span>
                                 <div class="desc">
-                                    <h3>Construcción</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+                                    <h3>CONSTRUCCIÓN</h3>
+                                    <ul>
+                                        <li>Terracerías</li>
+                                        <li>Pavimentos</li>
+                                        <li>Estructuras</li>
+                                        <li>Obra civil</li>
+                                        <li>Instalaciones electromecánicas</li>
+                                        <li>Instalaciones hidráulicas y sanitarias</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 animate-box">
+                            <div class="services">
+                                            <span class="icon">
+                                                <i class="flaticon-sketch"></i>
+                                            </span>
+                                <div class="desc">
+                                    <h3>INGENIERIA Y DISEÑO</h3>
+                                    <ul>
+                                        <li>Estudios ambientales y trámites</li>
+                                        <li>Topografía</li>
+                                        <li>Diseños arquitectónicos</li>
+                                        <li>Calculo estructural</li>
+                                        <li>Ingeniería mecánica</li>
+                                        <li>Ingeniería eléctrica</li>
+                                        <li>Diseños hidráulico-sanitario</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -48,8 +69,12 @@
                                                 <i class="flaticon-crane"></i>
                                             </span>
                                 <div class="desc">
-                                    <h3>Suministros</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+                                    <h3>SUMINISTROS</h3>
+                                    <ul>
+                                        <li>Material mecánico nacional</li>
+                                        <li>Material de importación</li>
+                                        <li>Refacciones</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
