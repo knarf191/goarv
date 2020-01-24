@@ -1514,3 +1514,15 @@ input[type="text"] {
     margin: 5px;
 }
 
+@media (max-width: 768px) {
+    #colorlib-logo a  img{
+        width: 900%;
+    }
+}
+
+@media (min-width: 769px) {
+    #colorlib-logo a  img{
+        width: 200%;
+    }
+}
+
