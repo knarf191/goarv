@@ -43,30 +43,34 @@ Route::get('clients', function() {
                 DASHBOARD
 /*======================================*/
 
-Route::get('login', function() {
+Route::get('login2', function() {
     return view('pages.dashboard.login');
-})->name('goarv.login');
+})->name('goarv.login')->middleware('auth');
 
 Route::get('dashboard', function() {
     return view('pages.dashboard.dashboard', ['title'=>'Dashboard']);
-})->name('goarv.dashboard');
+})->name('goarv.dashboard')->middleware('auth');
 
 Route::get('carousel', function() {
     return view('pages.dashboard.carousel', ['title'=>'Carousel']);
-})->name('goarv.carousel');
+})->name('goarv.carousel')->middleware('auth');
 
 Route::get('providers', function() {
     return view('pages.dashboard.providers', ['title'=>'Proveedores']);
-})->name('goarv.providers');
+})->name('goarv.providers')->middleware('auth');
 
 Route::get('comments', function() {
     return view('pages.dashboard.comments', ['title'=>'Comentarios']);
-})->name('goarv.comments');
+})->name('goarv.comments')->middleware('auth');
 
 Route::get('messages', function() {
     return view('pages.dashboard.messages', ['title'=>'Mensajes']);
-})->name('goarv.messages');
+})->name('goarv.messages')->middleware('auth');
 
 Route::get('admin_projects', function() {
     return view('pages.dashboard.projects', ['title'=>'Proyectos']);
-})->name('goarv.admin_projects');
+})->name('goarv.admin_projects')->middleware('auth');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
